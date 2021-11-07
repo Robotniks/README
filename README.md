@@ -14,6 +14,4 @@
         
         
         
-<h1 align='center'>Summary</h1>
-
-I code C++,C#,Python,GoLang and Java.I'm currently studying JavaScript and SQL.The supercomputers I am showing here are powerful almost beyond human understanding. They can map every molecule of the billions on a human DNA string, scrutinize at the atomic level the collision between two pieces of plutonium in an exploding bomb; or sketch the gravitational pull of every star in the galaxy. There are not questions that humans could grapple with given plenty of time, a notebook and a sharp pencil. These computers are not amiable assistants they are distant and sinister; cold and inscrutable. They are omniscient and omnipresent and these are not qualities in which we find a simulacrum of ourselves – these are qualities that describe the Divine. The problem is not that these computers might one day resemble humans. It is that they already resemble gods.
+[![Robotnik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robotniks&show_icons=true&theme=jolly)](https://github.com/Robotniks)
